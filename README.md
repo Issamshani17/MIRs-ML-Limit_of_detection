@@ -12,3 +12,16 @@
 
 **Abstract:**
 Effective diagnosis of malaria, including the detection of low-density parasitaemia, is vital for successful elimination of this deadly yet treatable disease. Unfortunately, existing technologies are either inexpensive but poorly sensitive - Rapid Diagnostic Tests (RDTs) and microscopy - or sensitive but costly - Polymerase Chain Reactions (PCR). Here, we demonstrate an AI-powered, reagent-free, and user-friendly approach that uses mid-infrared spectra acquired from dried blood spots to detect malaria infections with high accuracy under varying parasite densities and anaemic conditions. Our AI classifier initially trained on 4655 spectra from parasite-spiked blood samples from 70 adult volunteers, in controlled laboratory settings, attained 90% accuracy in detecting infections as low as one parasite per microliter of blood, a sensitivity unattainable by conventional RDTs and microscopy. These classifiers seamlessly transitioned to field applicability, achieving over 80% accuracy in predicting natural Plasmodium falciparum infections in blood samples collected during a field survey in rural Tanzania. Crucially, the performance remained unaffected by various levels of anaemia, a common complication in malaria patients. These findings suggest that the AI-driven mid-infrared spectroscopy approach has the potential to evolve into a cost-effective and highly sensitive malaria-screening tool adaptable to field conditions, including low-resource settings, thereby accelerating malaria elimination worldwide.
+
+#LICENCE
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
