@@ -1,7 +1,6 @@
-# MIRs-ML-Limit_of_detection
+# Using AI-Powered Mid-Infrared Spectroscopy for Malaria Screening Under Varying Parasite Densities and Anaemic Conditions
 
- **Using AI-Powered Mid-Infrared Spectroscopy for Malaria Screening Under Varying Parasite Densities and Anaemic Conditions**
-Issa H. Mshani1,2*, Frank J. Mtasagarwa1, Rehema Y. Mwanga1, Prisca A. Kweyamba1,3,4, Emmanuel P. Mwanga1, 2 , Mgeni M. Tambwe1, Lorenz M. Hofer1,3, Doreen J. Siria1,2, Mario González-Jiménez2, 5, Klaas Wynne5, Sarah J. Moore1,3,4,6, Fredros Okumu1, 2, 6, 7*†, Simon A. Babayan2*† and Francesco Baldini 1,2*†
+ Issa H. Mshani1,2*, Frank J. Mtasagarwa1, Rehema Y. Mwanga1, Prisca A. Kweyamba1,3,4, Emmanuel P. Mwanga1, 2 , Mgeni M. Tambwe1, Lorenz M. Hofer1,3, Doreen J. Siria1,2, Mario González-Jiménez2, 5, Klaas Wynne5, Sarah J. Moore1,3,4,6, Fredros Okumu1, 2, 6, 7*†, Simon A. Babayan2*† and Francesco Baldini 1,2*†
 
 1.	Ifakara Health Institute, Environmental Health, and Ecological Sciences Department, Morogoro, United Republic of Tanzania.
 2.	The University of Glasgow, School of Biodiversity, One Health and Veterinary Medicine, Glasgow, UK.
