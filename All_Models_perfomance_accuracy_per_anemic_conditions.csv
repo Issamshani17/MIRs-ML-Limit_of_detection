@@ -1,0 +1,46 @@
+Anemic_condition,Parasitemia,Model,Accuracy,LCI,UCI
+Non_anemic,6.00000%,Model 1 (High Contrast),100,,
+Non_anemic,0.10000%,Model 1 (High Contrast),100,,
+Non_anemic,0.00200%,Model 1 (High Contrast),91,87,95
+Non_anemic,0.00003%,Model 1 (High Contrast),92,88,96
+Non_anemic,All Positive,Model 1 (High Contrast),91,86,95
+Moderate_Anemia,6.00000%,Model 1 (High Contrast),100,,
+Moderate_Anemia,0.10000%,Model 1 (High Contrast),100,,
+Moderate_Anemia,0.00200%,Model 1 (High Contrast),95,92,98
+Moderate_Anemia,0.00003%,Model 1 (High Contrast),95,92,97
+Moderate_Anemia,All Positive,Model 1 (High Contrast),90,87,93
+Severe_Anemia,6.00000%,Model 1 (High Contrast),97,94,98
+Severe_Anemia,0.10000%,Model 1 (High Contrast),96,93,98
+Severe_Anemia,0.00200%,Model 1 (High Contrast),95,91,97
+Severe_Anemia,0.00003%,Model 1 (High Contrast),94,92,97
+Severe_Anemia,All Positive,Model 1 (High Contrast),93,91,97
+Non_anemic,6.00000%,Model 2 (All concentrations),84.71,81,90
+Non_anemic,0.10000%,Model 2 (All concentrations),76,70,82
+Non_anemic,0.00200%,Model 2 (All concentrations),74.71,69,82
+Non_anemic,0.00003%,Model 2 (All concentrations),75.29,71,81
+Non_anemic,All Positive,Model 2 (All concentrations),78,72,84
+Moderate_Anemia,6.00000%,Model 2 (All concentrations),85,80,89
+Moderate_Anemia,0.10000%,Model 2 (All concentrations),68,64,74
+Moderate_Anemia,0.00200%,Model 2 (All concentrations),73,68,78
+Moderate_Anemia,0.00003%,Model 2 (All concentrations),72,66,77
+Moderate_Anemia,All Positive,Model 2 (All concentrations),76,71,80
+Severe_Anemia,6.00000%,Model 2 (All concentrations),80.67,76,86
+Severe_Anemia,0.10000%,Model 2 (All concentrations),75,69,80
+Severe_Anemia,0.00200%,Model 2 (All concentrations),68.5,63,74
+Severe_Anemia,0.00003%,Model 2 (All concentrations),73.11,67,78
+Severe_Anemia,All Positive,Model 2 (All concentrations),70,64,76
+Non_anemic,6.00000%,Model 3 (Low Contrast),54,45,61
+Non_anemic,0.10000%,Model 3 (Low Contrast),61,54,67
+Non_anemic,0.00200%,Model 3 (Low Contrast),60,54,67
+Non_anemic,0.00003%,Model 3 (Low Contrast),70,63,77
+Non_anemic,All Positive,Model 3 (Low Contrast),63,55,68
+Moderate_Anemia,6.00000%,Model 3 (Low Contrast),51,47,57
+Moderate_Anemia,0.10000%,Model 3 (Low Contrast),52,47,58
+Moderate_Anemia,0.00200%,Model 3 (Low Contrast),72,66,78
+Moderate_Anemia,0.00003%,Model 3 (Low Contrast),70,64,75
+Moderate_Anemia,All Positive,Model 3 (Low Contrast),65,59,70
+Severe_Anemia,6.00000%,Model 3 (Low Contrast),57,51,63
+Severe_Anemia,0.10000%,Model 3 (Low Contrast),60,54,66
+Severe_Anemia,0.00200%,Model 3 (Low Contrast),72,67,77
+Severe_Anemia,0.00003%,Model 3 (Low Contrast),71,65,76
+Severe_Anemia,All Positive,Model 3 (Low Contrast),63,57,69

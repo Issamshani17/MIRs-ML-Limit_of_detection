@@ -1,0 +1,19 @@
+Parasitemia,Model,Accuracy,LCI,UCI
+6%,Model 1 (High contrast),99,98,99.3
+0.1%,Model 1 (High contrast),98.67,97.67,99.33
+0.002%,Model 1 (High contrast),93.67,90,96.67
+0.00003%,Model 1 (High contrast),93.67,90.67,96.67
+All Positive,Model 1 (High contrast),91.67,88,95
+Field data,Model 1 (High contrast),82.9,78,88
+6%,Model 2 (All concentrations),83.46,79,88.33
+0.1%,Model 2 (All concentrations),73,67.7,78.67
+0.002%,Model 2 (All concentrations),72.07,66.67,78
+0.00003%,Model 2 (All concentrations),73.47,68,79
+All Positive,Model 2 (All concentrations),74.66,69,80
+Field data,Model 2 (All concentrations),59,52,63
+6%,Model 3 (Low contrast),54,47.67,60.33
+0.1%,Model 3 (Low contrast),57.67,51.67,63.67
+0.002%,Model 3 (Low contrast),68,62.33,74
+0.00003%,Model 3 (Low contrast),70.33,64,76
+All Positive,Model 3 (Low contrast),63.67,57,69
+Field data,Model 3 (Low contrast),55.61,49,61
